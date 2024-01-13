@@ -1,8 +1,8 @@
 ---
-title: "Me and myself."
+title: "Myself."
 datePublished: Thu Jan 11 2024 22:15:55 GMT+0000 (Coordinated Universal Time)
 cuid: clr9rqlsa000508l4d09shqqv
-slug: me-and-myself
+slug: myself
 
 ---
 
