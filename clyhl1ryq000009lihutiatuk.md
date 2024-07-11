@@ -1,5 +1,7 @@
 ---
 title: "Trees."
+seoTitle: "Trees."
+seoDescription: "On the traits of trans tree trunks."
 datePublished: Thu Jul 11 2024 18:08:45 GMT+0000 (Coordinated Universal Time)
 cuid: clyhl1ryq000009lihutiatuk
 slug: trees
